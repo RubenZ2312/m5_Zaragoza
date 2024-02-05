@@ -1,0 +1,1 @@
+def funcio1(a: int)->int:
